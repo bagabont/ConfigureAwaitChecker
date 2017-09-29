@@ -6,6 +6,8 @@
     "win": {}
   },
   "dependencies": {
-    "JetBrains.ReSharper.SDK.Tests": "2017.2.0-eap13"
+    "JetBrains.Rider.SDK.Tests": "2017.1.20170821.160949-eap08",
+    "NUnit": "3.8.1",
+    "NUnit3TestAdapter": "3.8.0"
   }
 }

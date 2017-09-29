@@ -3,7 +3,7 @@
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
-    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">/Users/mmarinov/dev/ConfigureAwaitChecker/src/Arbel.ReSharper.ConfigureAwaitPlugin.Tests/project.lock.json</ProjectAssetsFile>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">/Users/mmarinov/dev/ConfigureAwaitChecker/src/Arbel.ReSharper.ConfigureAwaitPlugin/project.lock.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/mmarinov/.nuget/packages/</NuGetPackageRoot>
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/mmarinov/.nuget/packages/</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">ProjectJson</NuGetProjectStyle>
@@ -13,8 +13,6 @@
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)nunit3testadapter/3.8.0/build/net35/NUnit3TestAdapter.props" Condition="Exists('$(NuGetPackageRoot)nunit3testadapter/3.8.0/build/net35/NUnit3TestAdapter.props')" />
     <Import Project="$(NuGetPackageRoot)jetbrains.build.platform.tasks.proxytosolutioncompiledtask/2.0.20170530/build/JetBrains.Build.Platform.Tasks.ProxyToSolutionCompiledTask.Props" Condition="Exists('$(NuGetPackageRoot)jetbrains.build.platform.tasks.proxytosolutioncompiledtask/2.0.20170530/build/JetBrains.Build.Platform.Tasks.ProxyToSolutionCompiledTask.Props')" />
-    <Import Project="$(NuGetPackageRoot)jetbrains.rider.sdk.tests/2017.1.20170821.160949-eap08/build/JetBrains.Rider.SDK.Tests.props" Condition="Exists('$(NuGetPackageRoot)jetbrains.rider.sdk.tests/2017.1.20170821.160949-eap08/build/JetBrains.Rider.SDK.Tests.props')" />
   </ImportGroup>
 </Project>

@@ -1,0 +1,14 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Arbel.ReSharper.ConfigureAwaitPlugin.Tests/QuickFix/ConsiderUsingConfigureAwaitQuickFixTest.cs">
+    <Files>
+      <File FileName="Arbel.ReSharper.ConfigureAwaitPlugin.Tests/QuickFix/ConsiderUsingConfigureAwaitQuickFixAvailabilityTest.cs" Line="1" Column="1" />
+      <File FileName="Arbel.ReSharper.ConfigureAwaitPlugin.Tests/QuickFix/ConsiderUsingConfigureAwaitQuickFixTest.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

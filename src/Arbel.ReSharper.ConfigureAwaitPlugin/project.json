@@ -6,6 +6,6 @@
     "win": {}
   },
   "dependencies": {
-    "JetBrains.ReSharper.SDK": "2017.2.0-eap13"
+    "JetBrains.Rider.SDK": "2017.1.20170821.160949-eap08"
   }
 }
